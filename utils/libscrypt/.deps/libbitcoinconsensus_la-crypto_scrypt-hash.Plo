@@ -1,0 +1,2 @@
+cpp-ethereum/utils/libscrypt/libbitcoinconsensus_la-crypto_scrypt-hash.lo: \
+  cpp-ethereum/utils/libscrypt/crypto_scrypt-hash.c

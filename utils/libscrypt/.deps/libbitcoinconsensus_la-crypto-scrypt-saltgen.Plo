@@ -1,0 +1,2 @@
+cpp-ethereum/utils/libscrypt/libbitcoinconsensus_la-crypto-scrypt-saltgen.lo: \
+  cpp-ethereum/utils/libscrypt/crypto-scrypt-saltgen.c
